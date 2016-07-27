@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "URL Share",
+  "description": "This extension will help you share current tab URL(link) to your smartphone",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
