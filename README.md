@@ -2,7 +2,8 @@
 Chrome extension for easily sharing URLs with smartphone via QR Code.
 
 # Download
-Click here to download the .crx file
+Click [here](https://github.com/adln/Chrome-URL-Share/releases/download/1.0/Url.share.crx) to download the .crx file
+
 
 # Installation
 To install the extension, juste drag the .crx file and then drop it into chrome.
